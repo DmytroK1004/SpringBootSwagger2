@@ -1,0 +1,8 @@
+/target/
+
+### STS ###
+.mvn
+.settings
+.classpath
+.project
+.springBeans
