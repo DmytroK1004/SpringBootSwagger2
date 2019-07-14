@@ -1,4 +1,4 @@
-# SPring Boot with Swagger 2.0
+# Spring Boot with Swagger 2.0
 Best Of Hello World: [SpringBootSwagger2]
 
 ## Say Hello
